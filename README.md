@@ -1,1 +1,8 @@
 # git-c
+# Open-Source
+#include <stdio.h>
+
+int main() {
+  printf("Hello, World!\n");
+  return 0;
+}
